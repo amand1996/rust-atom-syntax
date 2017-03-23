@@ -1,0 +1,17 @@
+{
+  "name": "rust",
+  "main": "./lib/rust",
+  "version": "0.0.0",
+  "description": "Rust Syntax Highlight",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "rust:toggle"
+  },
+  "repository": "https://github.com/amand1996/rust-atom-syntax",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
