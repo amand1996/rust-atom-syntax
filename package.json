@@ -9,6 +9,7 @@
     "atom-workspace": "rust:toggle"
   },
   "repository": "https://github.com/amand1996/rust-atom-syntax",
+  "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
